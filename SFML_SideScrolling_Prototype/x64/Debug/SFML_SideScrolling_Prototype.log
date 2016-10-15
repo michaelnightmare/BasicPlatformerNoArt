@@ -1,5 +1,27 @@
 ﻿  Main.cpp
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\player.h(30): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(31): error C2065: 'Samus': undeclared identifier
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(31): error C2228: left of '.setTexture' must have class/struct/union
+  c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(31): note: type is 'unknown-type'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(32): error C2065: 'Samus': undeclared identifier
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(32): error C2228: left of '.setTextureRect' must have class/struct/union
+  c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(32): note: type is 'unknown-type'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(33): error C2065: 'Samus': undeclared identifier
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(33): error C2228: left of '.setPosition' must have class/struct/union
+  c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(33): note: type is 'unknown-type'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(34): error C2065: 'Samus': undeclared identifier
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(34): error C2228: left of '.setScale' must have class/struct/union
+  c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(34): note: type is 'unknown-type'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(53): error C2065: 'Samus': undeclared identifier
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(53): error C2228: left of '.move' must have class/struct/union
+  c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(53): note: type is 'unknown-type'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(57): error C2065: 'Samus': undeclared identifier
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(57): error C2228: left of '.move' must have class/struct/union
+  c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(57): note: type is 'unknown-type'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(60): error C2065: 'Samus': undeclared identifier
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(60): error C2228: left of '.move' must have class/struct/union
+  c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(60): note: type is 'unknown-type'
+c:\users\vince russo\platformer\sfml_sidescrolling_prototype\main.cpp(88): error C2065: 'Samus': undeclared identifier
   GameEngine.cpp
   Generating Code...
-  SFML_SideScrolling_Prototype.vcxproj -> C:\Users\UchihaKite\Desktop\SFML_ClubProject_1\x64\Debug\SFML_SideScrolling_Prototype.exe
-  SFML_SideScrolling_Prototype.vcxproj -> C:\Users\UchihaKite\Desktop\SFML_ClubProject_1\x64\Debug\SFML_SideScrolling_Prototype.pdb (Partial PDB)

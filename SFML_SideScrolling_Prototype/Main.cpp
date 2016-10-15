@@ -21,7 +21,8 @@ int main()
 		std::cout << "texture wont load";
 	}
 	
-	
+
+	int test = 42;
 	//Player Object:
 	Player player({ 40, 40 });
 	player.setPos({ 50, 500 });

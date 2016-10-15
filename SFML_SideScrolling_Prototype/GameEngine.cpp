@@ -5,7 +5,7 @@
 
 GameEngine::GameEngine() : Shape(50.0f)
 {
-	m_Window.create(sf::VideoMode(resolutionX, resolutionY), "First Club Project!", sf::Style::Default);
+	m_Window.create(sf::VideoMode(resolutionX, resolutionY), "Metroid Clone!", sf::Style::Default);
 	Shape.setFillColor(sf::Color(100, 250, 50));
 	Shape.setOrigin(Shape.getRadius()/2, Shape.getRadius()/2);
 	Shape.setPosition(resolutionX / 2, resolutionY / 2);
@@ -36,12 +36,4 @@ void GameEngine::Input()
 	{
 		m_Window.close();
 	}
-}
-
-void GameEngine::Draw()
-{
-	m_Window.clear();
-	// This is where you draw shit
-	m_Window.draw(Shape);
-	m_Window.display();
 }
